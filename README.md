@@ -31,7 +31,15 @@
 * **1.1 -** Não use um comando da Aurora com muita rapidez em um curto intervalo de tempo, isso pode causar latências, e caso esteja na intenção, você levará banimento.
 * **2.1 -** Não utilize uma conta ALT (uma segunda conta) ou outra conta para burlar cooldowns, seja no daily ou qualquer comando para avançar na economia mais rápido.
 * **3.1 -** Vendas de creams por valores reais, como: Nitro, Dinheiro real, Gift Cards, Boosts e etc, tudo que posua valor real não pode ser vendidos por creams, creams não é uma moeda real, é uma moeda sem valor criada para entretenimento no discord, você pode vender um cargo VIP no seu servidor e fazer os creams como forma de pagamento.
-* **4.1 -** Não abuse de bugs, se você achar um bug (erro de programação) reporte no meu [servidor de suporte](https://discord.gg/vXvMU3Wcwq) imediatamente para que não ocorra o pior e que a desenvolvedora "Senhora ?" possa corrigir.
+* **4.1 -** Não abuse de bugs, se você achar um bug (erro de programação) reporte no meu [servidor de suporte](https://discord.gg/vXvMU3Wcwq) imediatamente para que não ocorra o pior e que a desenvolvedor Renan Devil possa corrigir.
+
+
+# Privacy Policy
+# Your ID
+* Aurora stores your ID in messages only if configured by those in charge of the current server, for example: Aurora starts to store your ID when the leveling system is activated, so that every message you send earns you a certain value at each 1 minute, which we save in our database so you can level up and earn positions as a reward. Aurora also stores your ID when you use the economy system, some commands give you Aurora's own currency called "Creams", which you can buy at Aurora's own store.
+
+# Your Message
+* It is also stored when you set up your biography, information that is only customized if you use the command and set with your own message that is displayed to users. Aurora saves your ID when you ask or accept someone to marry you using the "marry" command, which is part of the roleplay command, Aurora needs to store your ID to know who you are married to, if you are still married and how long you have been married.
 
 # 🔗 Links Importantes e atalhos
 * [Me adicione](https://discord.com/api/oauth2/authorize?client_id=773784582855720961&permissions=1240611679318&redirect_uri=https%3A%2F%2Faurora339.webnode.com&response_type=code&scope=bot%20identify)
